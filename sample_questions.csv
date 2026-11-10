@@ -1,0 +1,6 @@
+subject,question,option_a,option_b,option_c,option_d,answer,marks
+Big Data,What does HDFS stand for?,High Data File System,Hadoop Distributed File System,Hybrid Data Format System,High Distributed File Storage,B,2
+Big Data,Which framework supports distributed data processing?,Hadoop,HTML,CSS,Figma,A,2
+Python,Which Python data type is immutable?,List,Dictionary,Set,Tuple,D,1
+Python,Which keyword is used to define a function?,func,define,def,function,C,1
+Database,Which SQL command retrieves records?,GET,SELECT,OPEN,UPDATE,B,1
