@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+online_exam.db
+.streamlit/secrets.toml

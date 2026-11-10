@@ -1,0 +1,6 @@
+EXAMLYTICS - ONLINE EXAMINATION & BIG DATA ANALYTICS
+
+Purpose: Manage online MCQ examinations and analyze student performance.
+Database: SQLite (students, questions, attempts).
+Analytics: score distribution, subject averages, pass rate, student-wise results.
+Run: pip install -r requirements.txt && streamlit run app.py
