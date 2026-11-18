@@ -1,5 +1,6 @@
 # Examlytics — Online Examination & Big Data Analytics
 
+live demo : https://online-exam-ttffuuqvjbrjrcry6oxt8z.streamlit.app/
 A database-driven online examination system with a modern dashboard and student performance analytics.
 
 ## Features
